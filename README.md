@@ -93,6 +93,13 @@
 
 ---
 
+### 📌 Featured Projects
+
+- [**django-rest-api-auth-crud**](https://github.com/shiladityamajumder/django-rest-api-auth-crud): Robust boilerplate for Django REST APIs with JWT auth, CRUD, and permissions.
+- [**radiology-exam-platform**](https://github.com/shiladityamajumder/your-repo): Backend for NLP-based answer scoring and DICOM image handling.
+
+---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shiladityamajumder&show_icons=true&theme=github_dark" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiladityamajumder&theme=dark" alt="GitHub Streak" />
