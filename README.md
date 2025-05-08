@@ -1,22 +1,99 @@
 <h1 align="center">Hi 👋, I'm Shiladitya Majumder</h1>
-<h3 align="center">A software developer from India</h3>
+<h3 align="center">Backend Developer | Python | Django | REST APIs | AWS</h3>
 
-- 🔭 I’m currently working as an **Software Developer**
-
-- 👯 I’m looking to collaborate on **Machine Learning and AI projects**
-
-- 📫 How to reach me **shiladityamajumder07@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shiladitya-majumder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shiladitya-majumder" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shiladitya-majumder/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+  <a href="mailto:shiladityamajumder07@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" /></a>
+  <a href="https://github.com/shiladityamajumder"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://medium.com/@shiladityamajumder"><img src="https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
+### 👨‍💻 About Me
 
-<!---
-shiladityamajumder/shiladityamajumder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 Currently working as a **Backend Developer** at Centrelocus
+- 🌱 Passionate about solving real-world problems with elegant backend architecture
+- 🤝 Open to collaborating on **AI/ML & Backend Projects**
+- 📫 Reach me at **shiladityamajumder07@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+#### Languages & Frameworks  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/-DRF-ff1709?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+
+#### Databases & Tools  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+#### Cloud & DevOps  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+---
+
+### 🏆 Key Achievements
+
+- ⚡ Improved API performance by **45%** via optimized serializers and DB queries  
+- 🚀 Built scalable APIs for **FreshScan**, serving 5K+ agri-users  
+- 🔐 Developed secure DICOM & NLP systems for a **radiology platform**
+
+---
+
+### 💼 Work Experience
+
+**Centrelocus**, Dehradun — *Backend Developer*  
+*2021 – Present*  
+- Developed REST APIs for agri-tech and health-tech platforms  
+- Integrated geo-tracking, bidding, chat, and authentication systems  
+- Collaborated with mobile and frontend teams for seamless integration  
+
+**Tech Stack:** Django REST Framework, PostgreSQL, AWS, Git
+
+---
+
+### 🚀 Projects
+
+- **FreshScan**: Backend for crop supply chain management, GPS mapping, marketplace
+- **LungX**: Audio-based lung diagnostics with Pydub analysis
+- **MotoSpar**: Multi-vendor vehicle part inventory management system
+- **Paper Trading Platform**: Simulated stock trading with real-time data
+- **Radiology Exam Portal**: NLP scoring, DICOM upload, secure analytics
+- **Govt Chatbot**: Built with Botpress to answer public queries from CSVs
+
+---
+
+### 📜 Certifications
+
+- 🧠 Applied AI & Machine Learning – Applied AI Course  
+- 🛰️ Multi-Agent Systems – DeepLearning.AI  
+- ☁️ AWS Machine Learning – Coursera (2024)  
+- 🧬 Neural Networks & Deep Learning – Coursera (2024)
+
+---
+
+### 📚 Education
+
+**B.Sc. in Computer Science** – University of Calcutta (2013–2016)
+
+---
+
+### ✍️ Content & Open Source
+
+- 📝 Blog: [Understanding Django Serializers](https://medium.com/@shiladityamajumder/understanding-django-serializers-the-bridge-between-data-and-apis-f22d603e6acf)
+- 💻 GitHub Project: [Django REST API Auth & CRUD](https://github.com/shiladityamajumder/django-rest-api-auth-crud)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shiladityamajumder&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiladityamajumder&theme=dark" alt="GitHub Streak" />
+</p>
