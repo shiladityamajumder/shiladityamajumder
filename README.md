@@ -82,7 +82,7 @@
 
 ### 📚 Education
 
-**B.Sc. in Computer Science** – University of Calcutta (2013–2016)
+**B.Sc.** – University of Calcutta (2013–2016)
 
 ---
 
