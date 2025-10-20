@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shiladitya Majumder</h1>
-<h3 align="center">Backend Developer | Python | Django | REST APIs | AWS</h3>
+<h3 align="center">Software Engineer | Python | Django | FastAPI | Node.js | NestJS | AWS</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shiladitya-majumder/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working as a **Backend Developer** at Centrelocus
+- 🔭 Currently working as a **Software Engineer** at **SastaSundar**
 - 🌱 Passionate about solving real-world problems with elegant backend architecture
 - 🤝 Open to collaborating on **AI/ML & Backend Projects**
 - 📫 Reach me at **shiladityamajumder07@gmail.com**
@@ -26,10 +26,14 @@
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/-DRF-ff1709?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-e0234e?style=flat-square&logo=nestjs&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
 #### Databases & Tools  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
@@ -50,13 +54,19 @@
 
 ### 💼 Work Experience
 
-**Centrelocus**, Dehradun — *Backend Developer*  
-*2021 – Present*  
+**SastaSundar**, Kolkata — *Software Engineer*  
+*October 2025 – Present*  
+- Working on **FastAPI-based backend** for e-commerce platform  
+- Building high-performance, modular APIs for healthcare and product management  
+- Implementing Redis-based caching and background tasks for faster response times  
+
+**Centrelocus**, Remote — *Backend Developer*  
+*August 2021 – October 2025*  
 - Developed REST APIs for agri-tech and health-tech platforms  
 - Integrated geo-tracking, bidding, chat, and authentication systems  
 - Collaborated with mobile and frontend teams for seamless integration  
 
-**Tech Stack:** Django REST Framework, PostgreSQL, AWS, Git
+**Tech Stack:** Django REST Framework, PostgreSQL, AWS, Git, FastAPI
 
 ---
 
@@ -82,6 +92,7 @@
 
 ### 📚 Education
 
+**MCA** – Ongoing (2025–2027)  
 **B.Sc.** – University of Calcutta (2013–2016)
 
 ---
