@@ -143,93 +143,80 @@ Most articles are based on **systems I’ve built or migrated in production**.
 
 ### 🧠 Backend Architecture & System Design
 
-* **Clean Architecture in Django: A Practical, Real-World Project Structure**
-  → Designing maintainable Django systems that scale with team and product growth
-  [https://shiladityamajumder.medium.com/clean-architecture-in-django-a-practical-real-world-project-structure-1f4c89e402f0](https://shiladityamajumder.medium.com/clean-architecture-in-django-a-practical-real-world-project-structure-1f4c89e402f0)
+* **[Clean Architecture in Django: A Practical, Real-World Project Structure](https://shiladityamajumder.medium.com/clean-architecture-in-django-a-practical-real-world-project-structure-1f4c89e402f0)**
+  Designing maintainable Django systems that scale with team and product growth.
 
-* **Designing Software That Survives Growth**
-  → Planning architecture, ownership boundaries, and team scaling without rewrites
-  [https://shiladityamajumder.medium.com/designing-software-that-survives-growth-planning-architecture-and-team-scaling-done-right-a4dd127f0d5a](https://shiladityamajumder.medium.com/designing-software-that-survives-growth-planning-architecture-and-team-scaling-done-right-a4dd127f0d5a)
+* **[Designing Software That Survives Growth](https://shiladityamajumder.medium.com/designing-software-that-survives-growth-planning-architecture-and-team-scaling-done-right-a4dd127f0d5a)**
+  Planning architecture, ownership boundaries, and team scaling without rewrites.
 
-* **Django vs FastAPI vs Node/Express vs NestJS**
-  → Choosing backend frameworks based on system constraints, not hype
-  [https://shiladityamajumder.medium.com/django-vs-fastapi-vs-node-express-vs-nestjs-structuring-real-world-backend-projects-the-right-way-497dbb73e201](https://shiladityamajumder.medium.com/django-vs-fastapi-vs-node-express-vs-nestjs-structuring-real-world-backend-projects-the-right-way-497dbb73e201)
+* **[Django vs FastAPI vs Node/Express vs NestJS](https://shiladityamajumder.medium.com/django-vs-fastapi-vs-node-express-vs-nestjs-structuring-real-world-backend-projects-the-right-way-497dbb73e201)**
+  Choosing backend frameworks based on system constraints, not hype.
 
 ---
 
 ### ⚙️ APIs, Performance & Scalability
 
-* **Optimizing Django ORM Queries for Performance**
-  → Reducing latency, N+1 issues, and inefficient query patterns
-  [https://shiladityamajumder.medium.com/optimizing-django-orm-queries-for-performance-tips-tricks-32d3d9dfee33](https://shiladityamajumder.medium.com/optimizing-django-orm-queries-for-performance-tips-tricks-32d3d9dfee33)
+* **[Optimizing Django ORM Queries for Performance](https://shiladityamajumder.medium.com/optimizing-django-orm-queries-for-performance-tips-tricks-32d3d9dfee33)**
+  Reducing latency, eliminating N+1 queries, and improving query efficiency.
 
-* **Async APIs with FastAPI: Patterns, Pitfalls & Best Practices**
-  → When async helps, when it hurts, and how to use it correctly
-  [https://shiladityamajumder.medium.com/async-apis-with-fastapi-patterns-pitfalls-best-practices-2d72b2b66f25](https://shiladityamajumder.medium.com/async-apis-with-fastapi-patterns-pitfalls-best-practices-2d72b2b66f25)
+* **[Async APIs with FastAPI: Patterns, Pitfalls & Best Practices](https://shiladityamajumder.medium.com/async-apis-with-fastapi-patterns-pitfalls-best-practices-2d72b2b66f25)**
+  Understanding when async helps, when it hurts, and how to apply it correctly.
 
-* **Pydantic and FastAPI: Data Validation Done Right**
-  → Structuring reliable request/response models for production APIs
-  [https://shiladityamajumder.medium.com/pydantic-and-fastapi-data-validation-done-right-b44287cfd019](https://shiladityamajumder.medium.com/pydantic-and-fastapi-data-validation-done-right-b44287cfd019)
+* **[Pydantic and FastAPI: Data Validation Done Right](https://shiladityamajumder.medium.com/pydantic-and-fastapi-data-validation-done-right-b44287cfd019)**
+  Structuring reliable request and response models for production APIs.
 
 ---
 
-### 🔐 Security, Auth & Data Integrity
+### 🔐 Security, Authentication & Data Integrity
 
-* **Best Practices for API Authentication & Authorization**
-  → Secure auth strategies in Django & FastAPI
-  [https://shiladityamajumder.medium.com/best-practices-for-api-authentication-authorization-in-django-fastapi-0bd316427682](https://shiladityamajumder.medium.com/best-practices-for-api-authentication-authorization-in-django-fastapi-0bd316427682)
+* **[Best Practices for API Authentication & Authorization in Django & FastAPI](https://shiladityamajumder.medium.com/best-practices-for-api-authentication-authorization-in-django-fastapi-0bd316427682)**
+  Secure authentication and authorization strategies for modern APIs.
 
-* **How to Secure Your Django Application (2025)**
-  → Hardening Django apps against common attack vectors
-  [https://shiladityamajumder.medium.com/how-to-secure-your-django-application-best-practices-for-2025-e9234cf71ab7](https://shiladityamajumder.medium.com/how-to-secure-your-django-application-best-practices-for-2025-e9234cf71ab7)
+* **[How to Secure Your Django Application: Best Practices for 2025](https://shiladityamajumder.medium.com/how-to-secure-your-django-application-best-practices-for-2025-e9234cf71ab7)**
+  Hardening Django applications against common attack vectors.
 
-* **Mastering Django Permissions**
-  → Building fine-grained, maintainable access control systems
-  [https://shiladityamajumder.medium.com/mastering-django-permissions-a-guide-to-custom-user-access-control-98a3b6b49906](https://shiladityamajumder.medium.com/mastering-django-permissions-a-guide-to-custom-user-access-control-98a3b6b49906)
+* **[Mastering Django Permissions: Custom User Access Control](https://shiladityamajumder.medium.com/mastering-django-permissions-a-guide-to-custom-user-access-control-98a3b6b49906)**
+  Designing fine-grained, maintainable permission systems.
 
 ---
 
-### 📡 Event-Driven & Modern Backend Patterns
+### 📡 Event-Driven Systems & Modern Backend Patterns
 
-* **Building Event-Driven Microservices with Python: RabbitMQ vs Kafka**
-  → Choosing the right message broker based on throughput and guarantees
-  [https://shiladityamajumder.medium.com/building-event-driven-microservices-with-python-rabbitmq-vs-kafka-explained-simply-d61cfff7ae46](https://shiladityamajumder.medium.com/building-event-driven-microservices-with-python-rabbitmq-vs-kafka-explained-simply-d61cfff7ae46)
+* **[Building Event-Driven Microservices with Python: RabbitMQ vs Kafka](https://shiladityamajumder.medium.com/building-event-driven-microservices-with-python-rabbitmq-vs-kafka-explained-simply-d61cfff7ae46)**
+  Selecting the right message broker based on throughput, ordering, and guarantees.
 
-* **Migrating a Legacy Django REST API to FastAPI**
-  → Step-by-step refactor strategy without breaking production
-  [https://shiladityamajumder.medium.com/migrating-a-legacy-django-rest-api-to-fastapi-step-by-step-refactor-strategy-a24258e73b16](https://shiladityamajumder.medium.com/migrating-a-legacy-django-rest-api-to-fastapi-step-by-step-refactor-strategy-a24258e73b16)
+* **[Migrating a Legacy Django REST API to FastAPI](https://shiladityamajumder.medium.com/migrating-a-legacy-django-rest-api-to-fastapi-step-by-step-refactor-strategy-a24258e73b16)**
+  A step-by-step migration strategy without disrupting production systems.
 
 ---
 
 ### 🧩 Language & Engineering Fundamentals
 
-* **Modern Type Hints in Python**
-  → Advanced typing patterns for Django & FastAPI codebases
-  [https://shiladityamajumder.medium.com/modern-type-hints-in-python-from-basics-to-advanced-patterns-for-django-fastapi-f3cb5759ade1](https://shiladityamajumder.medium.com/modern-type-hints-in-python-from-basics-to-advanced-patterns-for-django-fastapi-f3cb5759ade1)
+* **[Modern Type Hints in Python: From Basics to Advanced Patterns](https://shiladityamajumder.medium.com/modern-type-hints-in-python-from-basics-to-advanced-patterns-for-django-fastapi-f3cb5759ade1)**
+  Applying advanced typing techniques in large Python codebases.
 
-* **Understanding `float` vs `decimal` in Python**
-  → Avoiding subtle financial and precision bugs
-  [https://shiladityamajumder.medium.com/understanding-the-difference-between-float-and-decimal-in-python-18bae3b96ebc](https://shiladityamajumder.medium.com/understanding-the-difference-between-float-and-decimal-in-python-18bae3b96ebc)
+* **[Understanding the Difference Between `float` and `decimal` in Python](https://shiladityamajumder.medium.com/understanding-the-difference-between-float-and-decimal-in-python-18bae3b96ebc)**
+  Avoiding precision errors in financial and data-sensitive applications.
 
 ---
 
 ### 🚀 Open Source & Production Projects
 
-* **VisScan**
-  → Production-ready resume parsing & matching API using **FastAPI, OpenAI, and semantic search**
-  [https://github.com/shiladityamajumder/visscan](https://github.com/shiladityamajumder/visscan)
+* **[VisScan](https://github.com/shiladityamajumder/visscan)**
+  Production-ready resume parsing and matching API using **FastAPI, OpenAI, and semantic search**.
 
-* **Django REST API Auth & CRUD**
-  → Clean, extensible authentication and CRUD patterns in Django REST Framework
-  [https://github.com/shiladityamajumder/django-rest-api-auth-crud](https://github.com/shiladityamajumder/django-rest-api-auth-crud)
+* **[Django REST API Auth & CRUD](https://github.com/shiladityamajumder/django-rest-api-auth-crud)**
+  Clean and extensible authentication and CRUD patterns using Django REST Framework.
 
-* **FastAPI Auth**
-  → Authentication patterns and structure for FastAPI-based services
-  [https://github.com/shiladityamajumder/fastapi](https://github.com/shiladityamajumder/fastapi)
+* **[FastAPI Auth](https://github.com/shiladityamajumder/fastapi)**
+  Authentication patterns and project structure for FastAPI-based services.
 
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shiladityamajumder&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiladityamajumder&theme=dark" alt="GitHub Streak" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiladityamajumder&layout=compact&theme=github_dark&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
