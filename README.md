@@ -213,10 +213,15 @@ Most articles are based on **systems I’ve built or migrated in production**.
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shiladityamajumder&show_icons=true&theme=github_dark" alt="GitHub Stats" />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiladityamajumder&layout=compact&theme=github_dark&hide_border=true"
     alt="Top Languages"
   />
+</p> -->
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shiladityamajumder&theme=darkhub&no-frame=true&row=1" />
 </p>
+
