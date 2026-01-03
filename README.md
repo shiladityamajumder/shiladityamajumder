@@ -221,7 +221,6 @@ Most articles are based on **systems I’ve built or migrated in production**.
   />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shiladityamajumder&theme=darkhub&no-frame=true&row=1" />
-</p>
-
+</p> -->
