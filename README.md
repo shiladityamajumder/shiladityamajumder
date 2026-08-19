@@ -1,4 +1,3 @@
-```markdown
 <!-- markdownlint-disable MD013 MD033 MD041 -->
 
 <!--
@@ -431,4 +430,3 @@ I would be glad to exchange ideas.
 />
 
 </div>
-```
