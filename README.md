@@ -1,9 +1,18 @@
+```markdown
 <!-- markdownlint-disable MD013 MD033 MD041 -->
 
 <!--
 =============================================================================
 GITHUB PROFILE README
 Repository: github.com/shiladityamajumder/shiladityamajumder
+
+Brand Palette
+#A8E6CF — Mint
+#DCEDC1 — Soft Green
+#FFD3B6 — Peach
+#FFAAA5 — Coral
+#FF8B94 — Rose
+#333333 — Dark Neutral
 =============================================================================
 -->
 
@@ -11,13 +20,13 @@ Repository: github.com/shiladityamajumder/shiladityamajumder
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,52:0D9488,100:2563EB&height=230&section=header&text=Shiladitya%20Majumder&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Backend%20Software%20Engineer%20%E2%80%A2%20Kolkata%2C%20India&descAlignY=56&descSize=18&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:A8E6CF,48:FFD3B6,100:FF8B94&height=230&section=header&text=Shiladitya%20Majumder&fontSize=48&fontColor=333333&fontAlignY=36&desc=Backend%20Software%20Engineer%20%E2%80%A2%20Kolkata%2C%20India&descAlignY=56&descSize=18&animation=fadeIn"
   alt="Shiladitya Majumder — Backend Software Engineer"
 />
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=0D9488&center=true&vCenter=true&repeat=true&width=900&height=55&lines=Building+production-grade+Python+APIs;Designing+services+that+survive+growth;FastAPI+%E2%80%A2+Django+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis;RabbitMQ+%E2%80%A2+Celery+%E2%80%A2+Event-driven+systems"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=FF8B94&center=true&vCenter=true&repeat=true&width=900&height=55&lines=Building+production-grade+Python+APIs;Designing+services+that+survive+growth;FastAPI+%E2%80%A2+Django+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis;RabbitMQ+%E2%80%A2+Celery+%E2%80%A2+Event-driven+systems"
     alt="Building production-grade Python APIs and scalable backend systems"
   />
 </a>
@@ -30,20 +39,38 @@ Repository: github.com/shiladityamajumder/shiladityamajumder
 
 <p>
   <a href="https://www.linkedin.com/in/shiladitya-majumder/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Shiladitya on LinkedIn" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="Connect with Shiladitya on LinkedIn"
+    />
   </a>
   <a href="https://medium.com/@shiladityamajumder">
-    <img src="https://img.shields.io/badge/Medium-Technical_Writing-111111?style=for-the-badge&logo=medium&logoColor=white" alt="Read Shiladitya's technical writing on Medium" />
+    <img
+      src="https://img.shields.io/badge/Medium-Technical_Writing-111111?style=for-the-badge&logo=medium&logoColor=white"
+      alt="Read Shiladitya's technical writing on Medium"
+    />
   </a>
   <a href="mailto:shiladityamajumder07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Shiladitya" />
+    <img
+      src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email Shiladitya"
+    />
   </a>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-Backend_Architecture-0F766E?style=flat-square" alt="Backend architecture" />
-  <img src="https://img.shields.io/badge/Domain-Healthcare_%26_Commerce-2563EB?style=flat-square" alt="Healthcare and commerce" />
-  <img src="https://img.shields.io/badge/Approach-Pragmatic_Engineering-334155?style=flat-square" alt="Pragmatic engineering" />
+  <img
+    src="https://img.shields.io/badge/Focus-Backend_Architecture-333333?style=flat-square&labelColor=A8E6CF"
+    alt="Backend architecture"
+  />
+  <img
+    src="https://img.shields.io/badge/Domain-Healthcare_%26_Commerce-333333?style=flat-square&labelColor=FFD3B6"
+    alt="Healthcare and commerce"
+  />
+  <img
+    src="https://img.shields.io/badge/Approach-Pragmatic_Engineering-333333?style=flat-square&labelColor=FFAAA5"
+    alt="Pragmatic engineering"
+  />
 </p>
 
 </div>
@@ -112,6 +139,8 @@ backend systems that support healthcare and commerce workflows.
   </tr>
 </table>
 
+---
+
 ## Experience
 
 ### SastaSundar Healthbuddy Limited
@@ -148,7 +177,10 @@ using **FastAPI, OpenAI, OCR, NLP, and semantic search**.
 `Structured extraction` · `Relevance scoring` · `Semantic matching` · `Modular APIs`
 
 <a href="https://github.com/shiladityamajumder/visscan">
-  <img src="https://img.shields.io/badge/Explore_VisScan-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore the VisScan repository" />
+  <img
+    src="https://img.shields.io/badge/Explore_VisScan-333333?style=for-the-badge&logo=github&logoColor=A8E6CF"
+    alt="Explore the VisScan repository"
+  />
 </a>
 
 ### ⚡ FastAPI Auth — Backend Foundation
@@ -159,7 +191,10 @@ responses, maintainable application layers, and room for service-level extension
 `Authentication` · `Modular structure` · `API endpoints` · `Service foundations`
 
 <a href="https://github.com/shiladityamajumder/fastapi">
-  <img src="https://img.shields.io/badge/Explore_FastAPI_Auth-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="Explore the FastAPI Auth repository" />
+  <img
+    src="https://img.shields.io/badge/Explore_FastAPI_Auth-333333?style=for-the-badge&logo=github&logoColor=FFD3B6"
+    alt="Explore the FastAPI Auth repository"
+  />
 </a>
 
 ### 🔐 Django REST Auth & CRUD
@@ -170,7 +205,10 @@ permissions, and maintainable CRUD workflows.
 `Authentication` · `Permissions` · `Serializer validation` · `Reusable CRUD`
 
 <a href="https://github.com/shiladityamajumder/django-rest-api-auth-crud">
-  <img src="https://img.shields.io/badge/Explore_Django_REST_Project-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Explore the Django REST Auth and CRUD repository" />
+  <img
+    src="https://img.shields.io/badge/Explore_Django_REST_Project-333333?style=for-the-badge&logo=github&logoColor=FF8B94"
+    alt="Explore the Django REST Auth and CRUD repository"
+  />
 </a>
 
 ---
@@ -180,36 +218,96 @@ permissions, and maintainable CRUD workflows.
 ### Backend
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Django_REST-A30000?style=flat-square&logo=django&logoColor=white" alt="Django REST Framework" />
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+  <img
+    src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"
+    alt="Python"
+  />
+  <img
+    src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"
+    alt="FastAPI"
+  />
+  <img
+    src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"
+    alt="Django"
+  />
+  <img
+    src="https://img.shields.io/badge/Django_REST-A30000?style=flat-square&logo=django&logoColor=white"
+    alt="Django REST Framework"
+  />
+  <img
+    src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"
+    alt="Pydantic"
+  />
+  <img
+    src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"
+    alt="SQLAlchemy"
+  />
 </p>
 
 ### Data, Messaging, and Async Work
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery" />
-  <img src="https://img.shields.io/badge/Event--Driven-111827?style=flat-square" alt="Event-driven architecture" />
+  <img
+    src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"
+    alt="PostgreSQL"
+  />
+  <img
+    src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"
+    alt="MySQL"
+  />
+  <img
+    src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"
+    alt="Redis"
+  />
+  <img
+    src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"
+    alt="RabbitMQ"
+  />
+  <img
+    src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"
+    alt="Celery"
+  />
+  <img
+    src="https://img.shields.io/badge/Event--Driven-333333?style=flat-square"
+    alt="Event-driven architecture"
+  />
 </p>
 
 ### Infrastructure and Supporting Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify" />
+  <img
+    src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"
+    alt="AWS"
+  />
+  <img
+    src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"
+    alt="Docker"
+  />
+  <img
+    src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"
+    alt="Linux"
+  />
+  <img
+    src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"
+    alt="Nginx"
+  />
+  <img
+    src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"
+    alt="Git"
+  />
+  <img
+    src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"
+    alt="Node.js"
+  />
+  <img
+    src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"
+    alt="NestJS"
+  />
+  <img
+    src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white"
+    alt="Fastify"
+  />
 </p>
 
 ---
@@ -235,7 +333,10 @@ trade-offs, and failure modes that matter after software reaches production.
 
 <p align="center">
   <a href="https://medium.com/@shiladityamajumder">
-    <img src="https://img.shields.io/badge/Read_All_Articles-111111?style=for-the-badge&logo=medium&logoColor=white" alt="Read all articles on Medium" />
+    <img
+      src="https://img.shields.io/badge/Read_All_Articles-111111?style=for-the-badge&logo=medium&logoColor=white"
+      alt="Read all articles on Medium"
+    />
   </a>
 </p>
 
@@ -301,10 +402,17 @@ I would be glad to exchange ideas.
 <div align="center">
 
 <a href="https://www.linkedin.com/in/shiladitya-majumder/">
-  <img src="https://img.shields.io/badge/Start_a_Conversation-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Start a conversation on LinkedIn" />
+  <img
+    src="https://img.shields.io/badge/Start_a_Conversation-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="Start a conversation on LinkedIn"
+  />
 </a>
+
 <a href="mailto:shiladityamajumder07@gmail.com">
-  <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
+  <img
+    src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Send an email"
+  />
 </a>
 
 <br />
@@ -318,8 +426,9 @@ I would be glad to exchange ideas.
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,48:0D9488,100:0F766E&height=115&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8B94,52:FFD3B6,100:A8E6CF&height=115&section=footer"
   alt="Footer decoration"
 />
 
 </div>
+```
