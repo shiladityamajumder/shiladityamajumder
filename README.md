@@ -5,13 +5,15 @@
 GITHUB PROFILE README
 Repository: github.com/shiladityamajumder/shiladityamajumder
 
-Brand Palette
-#A8E6CF — Mint
-#DCEDC1 — Soft Green
-#FFD3B6 — Peach
-#FFAAA5 — Coral
-#FF8B94 — Rose
-#333333 — Dark Neutral
+Tech Blue Brand Palette
+#0F172A — Deep Navy
+#172554 — Midnight Blue
+#1D4ED8 — Strong Blue
+#2563EB — Primary Blue
+#3B82F6 — Electric Blue
+#60A5FA — Sky Blue
+#DBEAFE — Soft Blue
+#F8FAFF — Cool White
 =============================================================================
 -->
 
@@ -19,13 +21,13 @@ Brand Palette
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:A8E6CF,48:FFD3B6,100:FF8B94&height=230&section=header&text=Shiladitya%20Majumder&fontSize=48&fontColor=333333&fontAlignY=36&desc=Backend%20Software%20Engineer%20%E2%80%A2%20Kolkata%2C%20India&descAlignY=56&descSize=18&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:60A5FA&height=230&section=header&text=Shiladitya%20Majumder&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Backend%20Software%20Engineer%20%E2%80%A2%20Kolkata%2C%20India&descAlignY=56&descSize=18&animation=fadeIn"
   alt="Shiladitya Majumder — Backend Software Engineer"
 />
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=FF8B94&center=true&vCenter=true&repeat=true&width=900&height=55&lines=Building+production-grade+Python+APIs;Designing+services+that+survive+growth;FastAPI+%E2%80%A2+Django+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis;RabbitMQ+%E2%80%A2+Celery+%E2%80%A2+Event-driven+systems"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&repeat=true&width=900&height=55&lines=Building+production-grade+Python+APIs;Designing+services+that+survive+growth;FastAPI+%E2%80%A2+Django+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis;RabbitMQ+%E2%80%A2+Celery+%E2%80%A2+Event-driven+systems"
     alt="Building production-grade Python APIs and scalable backend systems"
   />
 </a>
@@ -59,15 +61,15 @@ Brand Palette
 
 <p>
   <img
-    src="https://img.shields.io/badge/Focus-Backend_Architecture-333333?style=flat-square&labelColor=A8E6CF"
+    src="https://img.shields.io/badge/Focus-Backend_Architecture-0F172A?style=flat-square&labelColor=DBEAFE&color=0F172A"
     alt="Backend architecture"
   />
   <img
-    src="https://img.shields.io/badge/Domain-Healthcare_%26_Commerce-333333?style=flat-square&labelColor=FFD3B6"
+    src="https://img.shields.io/badge/Domain-Healthcare_%26_Commerce-0F172A?style=flat-square&labelColor=BFDBFE&color=0F172A"
     alt="Healthcare and commerce"
   />
   <img
-    src="https://img.shields.io/badge/Approach-Pragmatic_Engineering-333333?style=flat-square&labelColor=FFAAA5"
+    src="https://img.shields.io/badge/Approach-Pragmatic_Engineering-0F172A?style=flat-square&labelColor=93C5FD&color=0F172A"
     alt="Pragmatic engineering"
   />
 </p>
@@ -177,7 +179,7 @@ using **FastAPI, OpenAI, OCR, NLP, and semantic search**.
 
 <a href="https://github.com/shiladityamajumder/visscan">
   <img
-    src="https://img.shields.io/badge/Explore_VisScan-333333?style=for-the-badge&logo=github&logoColor=A8E6CF"
+    src="https://img.shields.io/badge/Explore_VisScan-0F172A?style=for-the-badge&logo=github&logoColor=60A5FA"
     alt="Explore the VisScan repository"
   />
 </a>
@@ -191,7 +193,7 @@ responses, maintainable application layers, and room for service-level extension
 
 <a href="https://github.com/shiladityamajumder/fastapi">
   <img
-    src="https://img.shields.io/badge/Explore_FastAPI_Auth-333333?style=for-the-badge&logo=github&logoColor=FFD3B6"
+    src="https://img.shields.io/badge/Explore_FastAPI_Auth-0F172A?style=for-the-badge&logo=fastapi&logoColor=009688"
     alt="Explore the FastAPI Auth repository"
   />
 </a>
@@ -205,7 +207,7 @@ permissions, and maintainable CRUD workflows.
 
 <a href="https://github.com/shiladityamajumder/django-rest-api-auth-crud">
   <img
-    src="https://img.shields.io/badge/Explore_Django_REST_Project-333333?style=for-the-badge&logo=github&logoColor=FF8B94"
+    src="https://img.shields.io/badge/Explore_Django_REST_Project-0F172A?style=for-the-badge&logo=django&logoColor=44B78B"
     alt="Explore the Django REST Auth and CRUD repository"
   />
 </a>
@@ -218,7 +220,7 @@ permissions, and maintainable CRUD workflows.
 
 <p>
   <img
-    src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"
+    src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B"
     alt="Python"
   />
   <img
@@ -226,7 +228,7 @@ permissions, and maintainable CRUD workflows.
     alt="FastAPI"
   />
   <img
-    src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"
+    src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=44B78B"
     alt="Django"
   />
   <img
@@ -247,7 +249,7 @@ permissions, and maintainable CRUD workflows.
 
 <p>
   <img
-    src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"
+    src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"
     alt="PostgreSQL"
   />
   <img
@@ -267,7 +269,7 @@ permissions, and maintainable CRUD workflows.
     alt="Celery"
   />
   <img
-    src="https://img.shields.io/badge/Event--Driven-333333?style=flat-square"
+    src="https://img.shields.io/badge/Event--Driven-0F172A?style=flat-square&logo=apachekafka&logoColor=60A5FA"
     alt="Event-driven architecture"
   />
 </p>
@@ -276,7 +278,7 @@ permissions, and maintainable CRUD workflows.
 
 <p>
   <img
-    src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"
+    src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900"
     alt="AWS"
   />
   <img
@@ -425,7 +427,7 @@ I would be glad to exchange ideas.
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8B94,52:FFD3B6,100:A8E6CF&height=115&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,52:2563EB,100:0F172A&height=115&section=footer"
   alt="Footer decoration"
 />
 
