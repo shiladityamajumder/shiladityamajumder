@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="191" viewBox="0 0 480 191" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Let&#x27;s build something reliable.</title>
+<desc id="desc">The next system starts with a conversation. Shiladitya Majumder — Engineering Lab. Contact links follow in the README.</desc>
+
+
+<g font-family="Arial, Helvetica, Liberation Sans, sans-serif">
+<rect x="0.5" y="0.5" width="479" height="190" rx="14" fill="#080D18" stroke="#25344A" />
+<path d="M28 34H215l13 -12h24l13 12H452" fill="none" stroke="#25344A" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" /><circle cx="240" cy="22" r="3" fill="#60A5FA" /><text x="28" y="67" fill="#94A3B8" font-size="10" font-weight="500" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, monospace" letter-spacing="1.5">THE NEXT SYSTEM STARTS WITH A CONVERSATION.</text><text x="28" y="109" fill="#F8FAFC" font-size="32" font-weight="500" letter-spacing="-0.8">Let’s build something</text><text x="28" y="145" fill="#60A5FA" font-size="32" font-weight="500" letter-spacing="-0.8">reliable.</text><text x="28" y="172" fill="#94A3B8" font-size="11" font-weight="500" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, monospace" letter-spacing="1.5">SHILADITYA MAJUMDER / ENGINEERING LAB</text>
+</g>
+</svg>

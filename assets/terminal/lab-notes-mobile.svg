@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="369" viewBox="0 0 480 369" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Lab notes — personal signature</title>
+<desc id="desc">whoami: Shiladitya Majumder, Backend Software Engineer. Engineering focus: reliable APIs, distributed systems, database performance, scalable architecture. Mission: Build. Optimize. Scale. Repeat.</desc>
+
+<style>
+        @keyframes process { 0%,19%,27%,100% {opacity:.25} 23% {opacity:1} }
+        @keyframes background { 0%,74%,91%,100% {opacity:.25} 82% {opacity:1} }
+        @keyframes cursor { 0%,45% {opacity:1} 55%,100% {opacity:0} }
+        .process {animation:process 14s ease-in-out infinite}
+        .process-worker {animation:background 14s ease-in-out infinite}
+        .cursor {animation:cursor 1.8s step-end infinite}
+        @media (prefers-reduced-motion:reduce) {
+          .motion {display:none} .process,.process-worker,.cursor {animation:none}
+        }
+        </style>
+<g font-family="Arial, Helvetica, Liberation Sans, sans-serif">
+<rect x="0.5" y="0.5" width="479" height="368" rx="14" fill="#080D18" stroke="#25344A" />
+<text x="28" y="32" fill="#94A3B8" font-size="12" font-weight="500" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, monospace" letter-spacing="1.5">LAB NOTES / PERSONAL SIGNATURE</text><path d="M28 50H452" fill="none" stroke="#25344A" stroke-width="1" /><text x="28" y="82" fill="#60A5FA" font-size="17" font-weight="400" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, monospace">$ whoami</text><text x="28" y="112" fill="#F8FAFC" font-size="23" font-weight="600">Shiladitya Majumder</text><text x="28" y="137" fill="#94A3B8" font-size="17" font-weight="400">Backend Software Engineer</text><text x="28" y="183" fill="#60A5FA" font-size="17" font-weight="400" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, monospace">$ engineering.focus</text><text x="28" y="210" fill="#94A3B8" font-size="17" font-weight="400" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, monospace">&gt; Reliable APIs</text><text x="28" y="232" fill="#94A3B8" font-size="17" font-weight="400" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, monospace">&gt; Distributed systems</text><text x="28" y="254" fill="#94A3B8" font-size="17" font-weight="400" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, monospace">&gt; Database performance</text><text x="28" y="276" fill="#94A3B8" font-size="17" font-weight="400" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, monospace">&gt; Scalable architecture</text><text x="28" y="320" fill="#60A5FA" font-size="17" font-weight="400" font-family="ui-monospace, SFMono-Regular, Consolas, Liberation Mono, monospace">$ mission</text><text x="28" y="349" fill="#F8FAFC" font-size="19" font-weight="500">Build. Optimize. Scale. Repeat.</text><rect x="307" y="334" width="8" height="17" rx="0" fill="#60A5FA" stroke="#60A5FA" class="cursor"/>
+</g>
+</svg>

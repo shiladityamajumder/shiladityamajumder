@@ -1,434 +1,211 @@
 <!-- markdownlint-disable MD013 MD033 MD041 -->
+<!-- Artwork: scripts/generate_assets.py. Public activity: scripts/generate_activity.py. -->
 
-<!--
-=============================================================================
-GITHUB PROFILE README
-Repository: github.com/shiladityamajumder/shiladityamajumder
+<picture>
+  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/hero/hero-mobile-static.svg" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero/hero-static.svg" />
+  <source media="(max-width: 600px)" srcset="assets/hero/hero-mobile.svg" />
+  <img src="assets/hero/hero.svg" width="100%" alt="Shiladitya Majumder — Backend Software Engineer. Building reliable systems. Designing for scale. Engineering for the real world. An illustrative animated backend connects a client, API gateway, FastAPI, PostgreSQL, Redis, RabbitMQ, and Celery workers." />
+</picture>
 
-Tech Blue Brand Palette
-#0F172A — Deep Navy
-#172554 — Midnight Blue
-#1D4ED8 — Strong Blue
-#2563EB — Primary Blue
-#3B82F6 — Electric Blue
-#60A5FA — Sky Blue
-#DBEAFE — Soft Blue
-#F8FAFF — Cool White
-=============================================================================
--->
+**Backend engineering · Kolkata, India** &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/shiladitya-majumder/) · [Medium](https://medium.com/@shiladityamajumder) · [Email](mailto:shiladityamajumder07@gmail.com)
 
-<div align="center">
+[Identity](#01--engineering-identity) &nbsp; / &nbsp; [Ecosystem](#02--technology-ecosystem) &nbsp; / &nbsp; [Work](#03--architecture-showcase) &nbsp; / &nbsp; [Journey](#04--engineering-journey) &nbsp; / &nbsp; [Writing](#05--field-notes) &nbsp; / &nbsp; [Activity](#07--public-development)
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:60A5FA&height=230&section=header&text=Shiladitya%20Majumder&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Backend%20Software%20Engineer%20%E2%80%A2%20Kolkata%2C%20India&descAlignY=56&descSize=18&animation=fadeIn"
-  alt="Shiladitya Majumder — Backend Software Engineer"
-/>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/dashboard/engineering-practice-mobile.svg" />
+  <img src="assets/dashboard/engineering-practice.svg" width="100%" alt="Engineering practice: 5+ years of experience. API architecture with clear contracts and service boundaries. Distributed workflows with messaging and background processing. Database engineering with PostgreSQL and query optimization." />
+</picture>
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&repeat=true&width=900&height=55&lines=Building+production-grade+Python+APIs;Designing+services+that+survive+growth;FastAPI+%E2%80%A2+Django+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis;RabbitMQ+%E2%80%A2+Celery+%E2%80%A2+Event-driven+systems"
-    alt="Building production-grade Python APIs and scalable backend systems"
-  />
-</a>
+<sub>Engineering strengths, grounded in professional experience. The hero illustrates backend architecture patterns.</sub>
 
-<p>
-  I build backend systems where <strong>reliability is a product feature</strong>—<br />
-  clear service boundaries, predictable failure handling, observable workflows,
-  and database access that stays fast as traffic grows.
-</p>
+## 01 / Engineering identity
 
-<p>
-  <a href="https://www.linkedin.com/in/shiladitya-majumder/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="Connect with Shiladitya on LinkedIn"
-    />
-  </a>
-  <a href="https://medium.com/@shiladityamajumder">
-    <img
-      src="https://img.shields.io/badge/Medium-Technical_Writing-111111?style=for-the-badge&logo=medium&logoColor=white"
-      alt="Read Shiladitya's technical writing on Medium"
-    />
-  </a>
-  <a href="mailto:shiladityamajumder07@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email Shiladitya"
-    />
-  </a>
-</p>
+I build backend systems where **reliability is a product feature**: clear service boundaries, predictable failure handling, observable workflows, and database access that stays fast as traffic grows.
 
-<p>
-  <img
-    src="https://img.shields.io/badge/Focus-Backend_Architecture-0F172A?style=flat-square&labelColor=DBEAFE&color=0F172A"
-    alt="Backend architecture"
-  />
-  <img
-    src="https://img.shields.io/badge/Domain-Healthcare_%26_Commerce-0F172A?style=flat-square&labelColor=BFDBFE&color=0F172A"
-    alt="Healthcare and commerce"
-  />
-  <img
-    src="https://img.shields.io/badge/Approach-Pragmatic_Engineering-0F172A?style=flat-square&labelColor=93C5FD&color=0F172A"
-    alt="Pragmatic engineering"
-  />
-</p>
+With **5+ years of experience** across healthcare, e-commerce, agriculture, logistics, recruitment, and AI-enabled products, I work at **SastaSundar Healthbuddy Limited** on backend systems for healthcare and commerce.
 
-</div>
+> **Build for today.**<br />
+> **Design for growth.**<br />
+> **Operate for reliability.**
 
----
+**The work** — REST APIs, FastAPI and Django services, event-driven integrations, Celery workflows, reusable microservice foundations, and database-backed search and inventory.
 
-## Engineering Snapshot
+**The approach** — Clear ownership, predictable contracts, dependable retries, consistency under concurrency, and performance measured under real load. Keep operations simple; let business needs justify the architecture.
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <strong>5+ years</strong><br />
-      <sub>Backend engineering</sub>
-    </td>
-    <td align="center" width="25%">
-      <strong>15K–25K</strong><br />
-      <sub>API requests per day</sub>
-    </td>
-    <td align="center" width="25%">
-      <strong>~30%</strong><br />
-      <sub>API latency reduction</sub>
-    </td>
-    <td align="center" width="25%">
-      <strong>Production</strong><br />
-      <sub>Distributed systems</sub>
-    </td>
-  </tr>
-</table>
+## 02 / Technology ecosystem
 
-> **Build for today. Design for growth. Operate for reliability.**
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/diagrams/ecosystem-mobile.svg" />
+  <img src="assets/diagrams/ecosystem.svg" width="100%" alt="Five conceptual engineering layers: application services; persistence and caching; messaging and background work; infrastructure and operations; models, validation, and version control. Connections show relationships across projects, not a single deployment." />
+</picture>
 
-## About Me
+<details>
+<summary>Read the technology map</summary>
 
-I am a backend-focused Software Engineer with five years of experience
-building APIs, distributed services, and data-intensive applications across
-healthcare, e-commerce, agriculture, logistics, recruitment, and AI-enabled
-products.
+- **Application** — Python · FastAPI · Django · Django REST Framework
+- **Data** — PostgreSQL · MySQL · Redis
+- **Messaging** — RabbitMQ · Celery
+- **Infrastructure** — AWS · Docker · Linux · Nginx
+- **Engineering** — SQLAlchemy · Pydantic · Git
 
-I currently work at **SastaSundar Healthbuddy Limited**, designing and maintaining
-backend systems that support healthcare and commerce workflows.
+These layers connect API contracts to persistence, asynchronous work, and operations. The tools appear across different projects; the map does not describe one production deployment.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>What I build</h3>
-      <ul>
-        <li>Production-grade REST APIs</li>
-        <li>FastAPI and Django services</li>
-        <li>Event-driven integrations</li>
-        <li>Celery background workflows</li>
-        <li>Reusable microservice foundations</li>
-        <li>Database-backed search and inventory flows</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>How I work</h3>
-      <ul>
-        <li>Clear ownership boundaries</li>
-        <li>Strong, predictable API contracts</li>
-        <li>Reliable failure and retry handling</li>
-        <li>Data consistency under concurrency</li>
-        <li>Performance measured under real load</li>
-        <li>Architecture justified by business needs</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+</details>
 
----
+**Supporting experience:** Node.js, NestJS, Fastify, and modernization of Flask applications.
 
-## Experience
+## 03 / Architecture showcase
+
+Three public codebases. Each diagram is a simplified reading of implemented code paths.
+
+### 01 — VisScan / AI Resume Intelligence
+
+Extract resume text from PDF, Word documents, and images; parse resumes and job descriptions into structured data with OpenAI; compare candidates to roles using semantic similarity and skill overlap. The matching response includes a score, verdict, and highlights.
+
+**FastAPI · OpenAI · Pydantic · OCR · SentenceTransformers**
+
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/diagrams/visscan-mobile.svg" />
+  <img src="assets/diagrams/visscan.svg" width="100%" alt="VisScan: document to text extraction or OCR, OpenAI structured JSON, MiniLM embeddings, and a relevance score with highlights. Job descriptions are parsed separately; parsed resume and job data enter matching." />
+</picture>
+
+[Explore VisScan →](https://github.com/shiladityamajumder/visscan) &nbsp; / &nbsp; [Extraction](https://github.com/shiladityamajumder/visscan/blob/main/app/utils/file_utils.py) · [Matching](https://github.com/shiladityamajumder/visscan/blob/main/app/services/relevance_checker.py)
+
+### 02 — FastAPI Auth / Backend Foundation
+
+A modular authentication foundation with credential verification, JWT access and refresh tokens, role-based dependencies, and SQLAlchemy persistence. Organized routers, schemas, services, and response wrappers keep API responsibilities explicit.
+
+**FastAPI · Pydantic · SQLAlchemy · PyJWT**
+
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/diagrams/fastapi-auth-mobile.svg" />
+  <img src="assets/diagrams/fastapi-auth.svg" width="100%" alt="FastAPI Auth: credentials enter the authentication service, which issues JWT access and refresh tokens. Protected requests resolve the current user, check role dependencies, and enter endpoints backed by SQLAlchemy. Login and subsequent requests are separate operations." />
+</picture>
+
+[Explore FastAPI Auth →](https://github.com/shiladityamajumder/fastapi) &nbsp; / &nbsp; [Auth service](https://github.com/shiladityamajumder/fastapi/blob/main/fastapi-auth/src/auth/service.py) · [Role dependencies](https://github.com/shiladityamajumder/fastapi/blob/main/fastapi-auth/src/auth/permissions.py)
+
+### 03 — Django REST Auth & CRUD
+
+JWT authentication through SimpleJWT, explicit permission checks, serializer validation, and ORM-backed CRUD workflows. The repository includes customer, mechanic, and admin permission classes, with SQLite configured as the default database.
+
+**Django · Django REST Framework · SimpleJWT · SQLite**
+
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/diagrams/django-rest-auth-mobile.svg" />
+  <img src="assets/diagrams/django-rest-auth.svg" width="100%" alt="Django protected CRUD: bearer-token request, SimpleJWT authentication, permission checks, DRF view and serializer, Django ORM with SQLite by default. Serializer validation runs on writes." />
+</picture>
+
+[Explore Django REST Auth & CRUD →](https://github.com/shiladityamajumder/django-rest-api-auth-crud) &nbsp; / &nbsp; [Permissions](https://github.com/shiladityamajumder/django-rest-api-auth-crud/blob/main/demo_project/app/permissions.py) · [CRUD views](https://github.com/shiladityamajumder/django-rest-api-auth-crud/blob/main/demo_project/service/views.py)
+
+## 04 / Engineering journey
+
+<sub>01 / OCTOBER 2025 — PRESENT · KOLKATA</sub>
 
 ### SastaSundar Healthbuddy Limited
 
-**Software Engineer** · October 2025 – Present · Kolkata
+**Software Engineer**
 
-- Design and maintain FastAPI microservices for healthcare and commerce workflows.
-- Support services handling approximately **15K–25K API requests per day**.
-- Refactor legacy Flask and FastAPI MVC applications into layered architectures.
+- Design and maintain FastAPI microservices for healthcare and commerce, with clear service boundaries and dependable API contracts.
+- Refactor legacy Flask and FastAPI MVC systems into layered architectures; contribute to API gateway modernization from Express to Fastify.
 - Implement RabbitMQ communication and Celery/Redis background workflows.
-- Optimize PostgreSQL queries and indexing, reducing average API latency by **~30%**.
-- Contribute to API gateway modernization from Express to Fastify.
+- Improve API responsiveness through PostgreSQL query optimization and indexing.
+
+<sub>│ &nbsp; SERVICE MODERNIZATION / DISTRIBUTED WORKFLOWS / DATABASE PERFORMANCE</sub>
+
+<sub>02 / AUGUST 2021 — OCTOBER 2025 · REMOTE</sub>
 
 ### Centrelocus — ESROT Consulting Labs
 
-**Python Developer** · August 2021 – October 2025 · Remote
+**Python Developer**
 
-- Built Django REST Framework and FastAPI products across six business domains.
-- Developed systems serving more than **5,000 active users**.
-- Created AI-assisted resume parsing with OpenAI, OCR, and semantic search.
-- Implemented geolocation, real-time tracking, and asynchronous workflows.
-- Worked with secure healthcare DICOM processing systems.
+- Built Django REST Framework and FastAPI products across healthcare, commerce, agriculture, logistics, recruitment, and AI-enabled services.
+- Developed AI-assisted resume parsing with OpenAI, OCR, and semantic search.
+- Implemented geolocation, real-time tracking, and asynchronous workflows; worked with secure healthcare DICOM processing systems.
 - Deployed containerized applications on AWS and collaborated across product teams.
 
----
+## 05 / Field notes
 
-## Selected Work
+Practical backend engineering: design choices, operational trade-offs, and the failure modes that matter after software reaches production.
 
-### 🔍 VisScan — AI Resume Intelligence
+### Architecture & system design
 
-An API for extracting structured resume data and matching candidates to roles
-using **FastAPI, OpenAI, OCR, NLP, and semantic search**.
+<sub>01 / PROJECT STRUCTURE</sub><br />
+**[Clean Architecture in Django: A Practical Real-World Project Structure](https://shiladityamajumder.medium.com/clean-architecture-in-django-a-practical-real-world-project-structure-1f4c89e402f0)**
 
-`Structured extraction` · `Relevance scoring` · `Semantic matching` · `Modular APIs`
+<sub>02 / SYSTEM GROWTH</sub><br />
+**[Designing Software That Survives Growth](https://shiladityamajumder.medium.com/designing-software-that-survives-growth-planning-architecture-and-team-scaling-done-right-a4dd127f0d5a)**
 
-<a href="https://github.com/shiladityamajumder/visscan">
-  <img
-    src="https://img.shields.io/badge/Explore_VisScan-0F172A?style=for-the-badge&logo=github&logoColor=60A5FA"
-    alt="Explore the VisScan repository"
-  />
-</a>
+<sub>03 / BACKEND DESIGN</sub><br />
+**[Django vs FastAPI vs Node/Express vs NestJS](https://shiladityamajumder.medium.com/django-vs-fastapi-vs-node-express-vs-nestjs-structuring-real-world-backend-projects-the-right-way-497dbb73e201)**
 
-### ⚡ FastAPI Auth — Backend Foundation
+<sub>04 / MODERNIZATION</sub><br />
+**[Migrating a Legacy Django REST API to FastAPI](https://shiladityamajumder.medium.com/migrating-a-legacy-django-rest-api-to-fastapi-step-by-step-refactor-strategy-a24258e73b16)**
 
-A modular FastAPI authentication foundation with organized endpoints, consistent
-responses, maintainable application layers, and room for service-level extension.
+### APIs & distributed systems
 
-`Authentication` · `Modular structure` · `API endpoints` · `Service foundations`
+<sub>05 / ASYNCHRONOUS APIS</sub><br />
+**[Async APIs with FastAPI: Patterns, Pitfalls, and Best Practices](https://shiladityamajumder.medium.com/async-apis-with-fastapi-patterns-pitfalls-best-practices-2d72b2b66f25)**
 
-<a href="https://github.com/shiladityamajumder/fastapi">
-  <img
-    src="https://img.shields.io/badge/Explore_FastAPI_Auth-0F172A?style=for-the-badge&logo=fastapi&logoColor=009688"
-    alt="Explore the FastAPI Auth repository"
-  />
-</a>
+<sub>06 / DATABASE PERFORMANCE</sub><br />
+**[Optimizing Django ORM Queries for Performance](https://shiladityamajumder.medium.com/optimizing-django-orm-queries-for-performance-tips-tricks-32d3d9dfee33)**
 
-### 🔐 Django REST Auth & CRUD
+<sub>07 / API CONTRACTS</sub><br />
+**[Pydantic and FastAPI: Data Validation Done Right](https://shiladityamajumder.medium.com/pydantic-and-fastapi-data-validation-done-right-b44287cfd019)**
 
-A reusable Django REST Framework implementation for authentication, validation,
-permissions, and maintainable CRUD workflows.
+<sub>08 / MESSAGING</sub><br />
+**[Building Event-Driven Microservices: RabbitMQ vs Kafka](https://shiladityamajumder.medium.com/building-event-driven-microservices-with-python-rabbitmq-vs-kafka-explained-simply-d61cfff7ae46)**
 
-`Authentication` · `Permissions` · `Serializer validation` · `Reusable CRUD`
+[Read the complete publication →](https://medium.com/@shiladityamajumder)
 
-<a href="https://github.com/shiladityamajumder/django-rest-api-auth-crud">
-  <img
-    src="https://img.shields.io/badge/Explore_Django_REST_Project-0F172A?style=for-the-badge&logo=django&logoColor=44B78B"
-    alt="Explore the Django REST Auth and CRUD repository"
-  />
-</a>
+## 06 / Foundations
 
----
+**Master of Computer Applications** — Integral University, Lucknow · Expected 2027<br />
+**Bachelor of Science** — University of Calcutta · 2016
 
-## Technical Toolkit
+<details>
+<summary>Certifications & continued learning</summary>
 
-### Backend
+- Applied AI and Machine Learning — Applied AI Course
+- Multi-Agent Systems — DeepLearning.AI
+- AWS Machine Learning — Coursera
+- Neural Networks and Deep Learning — Coursera
 
-<p>
-  <img
-    src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B"
-    alt="Python"
-  />
-  <img
-    src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"
-    alt="FastAPI"
-  />
-  <img
-    src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=44B78B"
-    alt="Django"
-  />
-  <img
-    src="https://img.shields.io/badge/Django_REST-A30000?style=flat-square&logo=django&logoColor=white"
-    alt="Django REST Framework"
-  />
-  <img
-    src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"
-    alt="Pydantic"
-  />
-  <img
-    src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"
-    alt="SQLAlchemy"
-  />
-</p>
+</details>
 
-### Data, Messaging, and Async Work
-
-<p>
-  <img
-    src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"
-    alt="PostgreSQL"
-  />
-  <img
-    src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"
-    alt="MySQL"
-  />
-  <img
-    src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"
-    alt="Redis"
-  />
-  <img
-    src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"
-    alt="RabbitMQ"
-  />
-  <img
-    src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"
-    alt="Celery"
-  />
-  <img
-    src="https://img.shields.io/badge/Event--Driven-0F172A?style=flat-square&logo=apachekafka&logoColor=60A5FA"
-    alt="Event-driven architecture"
-  />
-</p>
-
-### Infrastructure and Supporting Technologies
-
-<p>
-  <img
-    src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900"
-    alt="AWS"
-  />
-  <img
-    src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"
-    alt="Docker"
-  />
-  <img
-    src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"
-    alt="Linux"
-  />
-  <img
-    src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"
-    alt="Nginx"
-  />
-  <img
-    src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"
-    alt="Git"
-  />
-  <img
-    src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"
-    alt="Node.js"
-  />
-  <img
-    src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"
-    alt="NestJS"
-  />
-  <img
-    src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white"
-    alt="Fastify"
-  />
-</p>
-
----
-
-## Technical Writing
-
-I write about practical backend engineering: the design choices, operational
-trade-offs, and failure modes that matter after software reaches production.
-
-### Architecture and System Design
-
-- [Clean Architecture in Django: A Practical Real-World Project Structure](https://shiladityamajumder.medium.com/clean-architecture-in-django-a-practical-real-world-project-structure-1f4c89e402f0)
-- [Designing Software That Survives Growth](https://shiladityamajumder.medium.com/designing-software-that-survives-growth-planning-architecture-and-team-scaling-done-right-a4dd127f0d5a)
-- [Django vs FastAPI vs Node/Express vs NestJS](https://shiladityamajumder.medium.com/django-vs-fastapi-vs-node-express-vs-nestjs-structuring-real-world-backend-projects-the-right-way-497dbb73e201)
-- [Migrating a Legacy Django REST API to FastAPI](https://shiladityamajumder.medium.com/migrating-a-legacy-django-rest-api-to-fastapi-step-by-step-refactor-strategy-a24258e73b16)
-
-### APIs, Data, and Distributed Systems
-
-- [Async APIs with FastAPI: Patterns, Pitfalls, and Best Practices](https://shiladityamajumder.medium.com/async-apis-with-fastapi-patterns-pitfalls-best-practices-2d72b2b66f25)
-- [Optimizing Django ORM Queries for Performance](https://shiladityamajumder.medium.com/optimizing-django-orm-queries-for-performance-tips-tricks-32d3d9dfee33)
-- [Pydantic and FastAPI: Data Validation Done Right](https://shiladityamajumder.medium.com/pydantic-and-fastapi-data-validation-done-right-b44287cfd019)
-- [Building Event-Driven Microservices: RabbitMQ vs Kafka](https://shiladityamajumder.medium.com/building-event-driven-microservices-with-python-rabbitmq-vs-kafka-explained-simply-d61cfff7ae46)
-
-<p align="center">
-  <a href="https://medium.com/@shiladityamajumder">
-    <img
-      src="https://img.shields.io/badge/Read_All_Articles-111111?style=for-the-badge&logo=medium&logoColor=white"
-      alt="Read all articles on Medium"
-    />
-  </a>
-</p>
-
----
-
-## Education and Certifications
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Education</h3>
-      <p>
-        <strong>Master of Computer Applications</strong><br />
-        Integral University, Lucknow<br />
-        <sub>Expected 2027</sub>
-      </p>
-      <p>
-        <strong>Bachelor of Science</strong><br />
-        University of Calcutta<br />
-        <sub>2016</sub>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Certifications</h3>
-      <ul>
-        <li>Applied AI and Machine Learning — Applied AI Course</li>
-        <li>Multi-Agent Systems — DeepLearning.AI</li>
-        <li>AWS Machine Learning — Coursera</li>
-        <li>Neural Networks and Deep Learning — Coursera</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## Contribution Activity
+## 07 / Public development
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/shiladityamajumder/shiladityamajumder/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/shiladityamajumder/shiladityamajumder/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    width="100%"
-    alt="Animated GitHub contribution graph"
-    src="https://raw.githubusercontent.com/shiladityamajumder/shiladityamajumder/output/github-contribution-grid-snake.svg"
-  />
+  <source media="(max-width: 600px)" srcset="assets/activity/activity-mobile.svg" />
+  <img src="assets/activity/activity.svg" width="100%" alt="Automatically generated public GitHub repository index: public repository count and three recently pushed original projects, with languages and last-push dates. Source links below update with the artwork. Repository pushes do not measure personal contributions." />
 </picture>
 
----
+<!-- activity-links:start -->
 
-## Let's Connect
+[fastapi-production-boilerplate](https://github.com/shiladityamajumder/fastapi-production-boilerplate) · [bloom-boutique](https://github.com/shiladityamajumder/bloom-boutique) · [shiladityamajumder.github.io](https://github.com/shiladityamajumder/shiladityamajumder.github.io)
 
-If you are working on Python backend systems, FastAPI or Django, distributed
-workflows, healthcare technology, API performance, or open-source foundations,
-I would be glad to exchange ideas.
+<!-- activity-links:end -->
 
-<div align="center">
+[Browse all public repositories →](https://github.com/shiladityamajumder?tab=repositories)
 
-<a href="https://www.linkedin.com/in/shiladitya-majumder/">
-  <img
-    src="https://img.shields.io/badge/Start_a_Conversation-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="Start a conversation on LinkedIn"
-  />
-</a>
+<sub>Updated automatically from public GitHub data. The capture date is shown in the artwork; repository push dates can include collaborator activity.</sub>
 
-<a href="mailto:shiladityamajumder07@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Send an email"
-  />
-</a>
+## 08 / Lab notes
 
-<br />
-<br />
-
-<strong>Reliable APIs · Clear boundaries · Systems that survive growth</strong>
+<picture>
+  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/terminal/lab-notes-mobile-static.svg" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/terminal/lab-notes-static.svg" />
+  <source media="(max-width: 600px)" srcset="assets/terminal/lab-notes-mobile.svg" />
+  <img src="assets/terminal/lab-notes.svg" width="100%" alt="whoami: Shiladitya Majumder, Backend Software Engineer. Engineering focus: reliable APIs, distributed systems, database performance, scalable architecture. Mission: Build. Optimize. Scale. Repeat." />
+</picture>
 
 <br />
 
-<sub>Python · FastAPI · Django · PostgreSQL · Redis · RabbitMQ · AWS</sub>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/footer/footer-mobile.svg" />
+  <img src="assets/footer/footer.svg" width="100%" alt="Let's build something reliable. The next system starts with a conversation." />
+</picture>
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,52:2563EB,100:0F172A&height=115&section=footer"
-  alt="Footer decoration"
-/>
+Working on Python backend systems, distributed workflows, healthcare technology, API performance, or open-source foundations? I would be glad to exchange ideas.
 
-</div>
+**[GitHub](https://github.com/shiladityamajumder)** &nbsp; / &nbsp; **[LinkedIn](https://www.linkedin.com/in/shiladitya-majumder/)** &nbsp; / &nbsp; **[Medium](https://medium.com/@shiladityamajumder)** &nbsp; / &nbsp; **[Email](mailto:shiladityamajumder07@gmail.com)**

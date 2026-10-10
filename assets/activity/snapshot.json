@@ -1,0 +1,207 @@
+{
+  "username": "shiladityamajumder",
+  "captured_at": "2026-10-10T05:08:10+00:00",
+  "source": "https://api.github.com/users/shiladityamajumder/repos",
+  "repositories": [
+    {
+      "name": "ai-interview-fastapi",
+      "url": "https://github.com/shiladityamajumder/ai-interview-fastapi",
+      "language": "Python",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2025-08-29T12:09:56Z"
+    },
+    {
+      "name": "bloom-boutique",
+      "url": "https://github.com/shiladityamajumder/bloom-boutique",
+      "language": "TypeScript",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-10-08T06:12:16Z"
+    },
+    {
+      "name": "CargoFlow-Logistics",
+      "url": "https://github.com/shiladityamajumder/CargoFlow-Logistics",
+      "language": "HTML",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-10-04T03:33:17Z"
+    },
+    {
+      "name": "CNN-ON-CIFR",
+      "url": "https://github.com/shiladityamajumder/CNN-ON-CIFR",
+      "language": "Jupyter Notebook",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2021-03-07T15:36:36Z"
+    },
+    {
+      "name": "django-crypto-trading-bot",
+      "url": "https://github.com/shiladityamajumder/django-crypto-trading-bot",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2022-01-13T04:47:30Z"
+    },
+    {
+      "name": "django-rest-api-auth-crud",
+      "url": "https://github.com/shiladityamajumder/django-rest-api-auth-crud",
+      "language": "Python",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2025-05-05T11:31:41Z"
+    },
+    {
+      "name": "django_binance_trader",
+      "url": "https://github.com/shiladityamajumder/django_binance_trader",
+      "language": null,
+      "fork": true,
+      "archived": false,
+      "pushed_at": "2019-10-07T06:36:49Z"
+    },
+    {
+      "name": "fastapi",
+      "url": "https://github.com/shiladityamajumder/fastapi",
+      "language": "Python",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2025-04-18T09:17:47Z"
+    },
+    {
+      "name": "fastapi-production-boilerplate",
+      "url": "https://github.com/shiladityamajumder/fastapi-production-boilerplate",
+      "language": "Python",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-10-09T09:06:12Z"
+    },
+    {
+      "name": "healthcard-file-service",
+      "url": "https://github.com/shiladityamajumder/healthcard-file-service",
+      "language": "TypeScript",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-08-19T05:06:21Z"
+    },
+    {
+      "name": "healthcare-auth-service",
+      "url": "https://github.com/shiladityamajumder/healthcare-auth-service",
+      "language": "Python",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-08-18T09:20:48Z"
+    },
+    {
+      "name": "healthcare-platform-nest-js",
+      "url": "https://github.com/shiladityamajumder/healthcare-platform-nest-js",
+      "language": "TypeScript",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-09-26T06:42:49Z"
+    },
+    {
+      "name": "healthcare-product-service",
+      "url": "https://github.com/shiladityamajumder/healthcare-product-service",
+      "language": "Python",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-08-19T05:07:40Z"
+    },
+    {
+      "name": "Implement-SGD-Classifier-with-Logloss-and-L2-regularization-Using-SGD-without-using-sklearn",
+      "url": "https://github.com/shiladityamajumder/Implement-SGD-Classifier-with-Logloss-and-L2-regularization-Using-SGD-without-using-sklearn",
+      "language": "Jupyter Notebook",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2021-03-08T12:25:03Z"
+    },
+    {
+      "name": "lame-des-matieres",
+      "url": "https://github.com/shiladityamajumder/lame-des-matieres",
+      "language": "HTML",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-10-07T08:43:35Z"
+    },
+    {
+      "name": "mechanism-of-action",
+      "url": "https://github.com/shiladityamajumder/mechanism-of-action",
+      "language": "Jupyter Notebook",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2021-04-30T08:34:57Z"
+    },
+    {
+      "name": "Microsoft-Malware-Detection",
+      "url": "https://github.com/shiladityamajumder/Microsoft-Malware-Detection",
+      "language": "Jupyter Notebook",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2021-03-08T12:25:39Z"
+    },
+    {
+      "name": "modular-backend-platform",
+      "url": "https://github.com/shiladityamajumder/modular-backend-platform",
+      "language": null,
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-04-23T08:08:22Z"
+    },
+    {
+      "name": "NLP-Attention-Mechanism",
+      "url": "https://github.com/shiladityamajumder/NLP-Attention-Mechanism",
+      "language": "Jupyter Notebook",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2021-03-08T12:26:32Z"
+    },
+    {
+      "name": "shiladityamajumder",
+      "url": "https://github.com/shiladityamajumder/shiladityamajumder",
+      "language": null,
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-10-10T03:48:36Z"
+    },
+    {
+      "name": "shiladityamajumder.github.io",
+      "url": "https://github.com/shiladityamajumder/shiladityamajumder.github.io",
+      "language": "CSS",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-10-07T11:38:39Z"
+    },
+    {
+      "name": "url_shortner",
+      "url": "https://github.com/shiladityamajumder/url_shortner",
+      "language": "Python",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2025-01-19T08:03:02Z"
+    },
+    {
+      "name": "velora-admin-html",
+      "url": "https://github.com/shiladityamajumder/velora-admin-html",
+      "language": "HTML",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-10-04T04:53:14Z"
+    },
+    {
+      "name": "velora-admin-nextjs",
+      "url": "https://github.com/shiladityamajumder/velora-admin-nextjs",
+      "language": "TypeScript",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2026-10-04T03:43:49Z"
+    },
+    {
+      "name": "visscan",
+      "url": "https://github.com/shiladityamajumder/visscan",
+      "language": "Python",
+      "fork": false,
+      "archived": false,
+      "pushed_at": "2025-07-11T10:45:30Z"
+    }
+  ]
+}
