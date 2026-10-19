@@ -182,7 +182,7 @@ Practical backend engineering: design choices, operational trade-offs, and the f
 
 <!-- activity-links:start -->
 
-[fastapi-production-boilerplate](https://github.com/shiladityamajumder/fastapi-production-boilerplate) · [bloom-boutique](https://github.com/shiladityamajumder/bloom-boutique) · [shiladityamajumder.github.io](https://github.com/shiladityamajumder/shiladityamajumder.github.io)
+[pharmville-docs](https://github.com/shiladityamajumder/pharmville-docs) · [fastapi-production-boilerplate](https://github.com/shiladityamajumder/fastapi-production-boilerplate) · [bloom-boutique](https://github.com/shiladityamajumder/bloom-boutique)
 
 <!-- activity-links:end -->
 
