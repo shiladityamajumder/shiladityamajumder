@@ -1,6 +1,6 @@
 {
   "username": "shiladityamajumder",
-  "captured_at": "2026-10-23T07:32:52+00:00",
+  "captured_at": "2026-10-23T13:27:11+00:00",
   "source": "https://api.github.com/users/shiladityamajumder/repos",
   "repositories": [
     {
@@ -161,7 +161,7 @@
       "language": "JavaScript",
       "fork": false,
       "archived": false,
-      "pushed_at": "2026-10-23T06:05:39Z"
+      "pushed_at": "2026-10-23T13:05:51Z"
     },
     {
       "name": "shiladityamajumder",
@@ -169,7 +169,7 @@
       "language": "Python",
       "fork": false,
       "archived": false,
-      "pushed_at": "2026-10-23T01:31:44Z"
+      "pushed_at": "2026-10-23T07:32:53Z"
     },
     {
       "name": "shiladityamajumder.github.io",
