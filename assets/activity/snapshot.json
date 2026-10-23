@@ -1,6 +1,6 @@
 {
   "username": "shiladityamajumder",
-  "captured_at": "2026-10-23T01:31:42+00:00",
+  "captured_at": "2026-10-23T07:32:52+00:00",
   "source": "https://api.github.com/users/shiladityamajumder/repos",
   "repositories": [
     {
@@ -158,10 +158,10 @@
     {
       "name": "pharmville-docs",
       "url": "https://github.com/shiladityamajumder/pharmville-docs",
-      "language": "HTML",
+      "language": "JavaScript",
       "fork": false,
       "archived": false,
-      "pushed_at": "2026-10-20T06:05:56Z"
+      "pushed_at": "2026-10-23T06:05:39Z"
     },
     {
       "name": "shiladityamajumder",
@@ -169,7 +169,7 @@
       "language": "Python",
       "fork": false,
       "archived": false,
-      "pushed_at": "2026-10-22T22:24:29Z"
+      "pushed_at": "2026-10-23T01:31:44Z"
     },
     {
       "name": "shiladityamajumder.github.io",
